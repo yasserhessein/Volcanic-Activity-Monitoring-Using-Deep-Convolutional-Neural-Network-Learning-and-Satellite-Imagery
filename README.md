@@ -29,15 +29,7 @@ This project implements a sophisticated multi-modal alert system that classifies
 **🧑‍🔬 Dr. Yasir Hussein Shakir**  
 *AI Research Scientist | Artificial intelligence*
 
-</div>
 
-## 🎥 Project Demo
-
-<div align="center">
-
-[![Volcanic Activity Classification Demo](https://img.shields.io/badge/🎬_Watch_Project_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/i_t3WI5tqRY)
-
-</div>
 
 > ⚠️ **Note:** If you encounter any issues with this code, please don't hesitate to contact me.
 
