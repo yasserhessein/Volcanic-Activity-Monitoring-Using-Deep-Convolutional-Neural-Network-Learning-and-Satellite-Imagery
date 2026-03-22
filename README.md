@@ -4,6 +4,12 @@ A multi-modal alert system for classifying volcanic activity using satellite dat
 
 ![Project Banner](https://github.com/user-attachments/assets/9a6cffdf-9bfb-444d-b7be-6a49414f236e)
 
+
+
+[![Paper](https://img.shields.io/badge/📄-Published%20Paper-2E86AB?style=for-the-badge)](https://ijaas.iaescore.com/index.php/IJAAS/article/view/22248)
+[![DOI](https://img.shields.io/badge/DOI-10.63496/ejcs.Vol1.Iss5.185-1A6FDF?style=for-the-badge&logo=doi&logoColor=white)](http://doi.org/10.11591/ijaas.v15.i1.pp281-292)
+
+
 ## 📹 Project Demo
 
 Check out the project demonstration on YouTube:
