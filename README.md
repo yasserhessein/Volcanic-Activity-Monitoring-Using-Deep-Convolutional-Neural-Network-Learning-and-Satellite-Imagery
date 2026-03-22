@@ -58,7 +58,7 @@ This project implements a sophisticated multi-modal alert system that classifies
 
 ```text
 MIT License
-Copyright (c) 2024 Dr. Yasir Hussein Shakir
+Copyright (c) 2026 Dr. Yasir Hussein Shakir
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
